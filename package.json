@@ -1,0 +1,11 @@
+{
+  "name"           : "template-cv-latex",
+  "description"    : "This a boilerplate project to quicky edit a CV in latex, with the modercv style.",
+  "repository"     : "https://github.com/evanliomain/template-cv-latex",
+  "version"        : "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-shell": "^1.1.1"
+  }
+}
